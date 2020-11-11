@@ -41,7 +41,7 @@ sh test.sh
 
 ## Results
 
-<img align="center" src="./results/psnr/ssim_results.png" swidth="750">
+<img align="center" src="./results/psnr_ssim-time.png" swidth="750">
 
 ## Bibtex
 
