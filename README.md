@@ -3,8 +3,6 @@ we propose EfficientDerain for high-efficiency single-image deraining
 
 <img align="center" src="./results/structure.png" swidth="750">
 
-
-
 ## Requirements
 
 - python 3.6
@@ -12,9 +10,11 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - opencv-python 4.4.0.44
 - scokit-image 0.17.2
 
-
-
-
+## Datasets
+- Rain100L http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
+- Rain100H http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
+- Rain1400 https://xueyangfu.github.io/projects/cvpr2017.html
+- SPA https://stevewongv.github.io/derain-project.html
 
 ## Train
 
@@ -26,8 +26,6 @@ we propose EfficientDerain for high-efficiency single-image deraining
 ```
 sh train.sh
 ```
-
-
 
 ## Test
 
@@ -41,7 +39,9 @@ sh train.sh
 sh test.sh
 ```
 
+## Results
 
+<img align="center" src="./results/psnr/ssim_results.png" swidth="750">
 
 ## Bibtex
 
