@@ -16,9 +16,13 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - Rain1400 https://xueyangfu.github.io/projects/cvpr2017.html
 - SPA https://stevewongv.github.io/derain-project.html
 
+## Pretrained models
+Here is the url of pretrained models for SPA-data: 
+https://drive.google.com/file/d/1dpchUh3rP2gCHeUDm5W8d48xkZ2P4-FC/view?usp=sharing
+
 ## Train
 
-- The code shown corresponds to version **v3**, for **v4** change the value of argument "**rainaug**" in file "**./train.sh**" to the "**true**"
+- The code shown corresponds to version **v3**, for **v4** change the value of argument "**rainaug**" in file "**./train.sh**" to the "**true**" (You need to unzip the "Streaks_Garg06.zip" in the "./rainmix")
 - Change the value of argument "**baseroot**" in file "**./train.sh**" to **the path of training data**
 - Edit the function "**get_files**" in file "**./utils**" according to the format of the training data
 - Execute
