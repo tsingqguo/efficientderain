@@ -37,7 +37,7 @@ class DenoisingDataset(Dataset):
             print(pair[0] + ' | ' + pair[1])
         '''
     def getRainLayer2(self, rand_id1, rand_id2):
-        path_img_rainlayer_src = "./rainy_image_dataset/Streaks_Garg06/" + str(rand_id1) + "-" + str(rand_id2) + ".png"
+        path_img_rainlayer_src = "./rainmix/Streaks_Garg06/" + str(rand_id1) + "-" + str(rand_id2) + ".png"
         rainlayer_rand = cv2.imread(path_img_rainlayer_src).astype(np.float32) / 255.0
         rainlayer_rand = cv2.cvtColor(rainlayer_rand, cv2.COLOR_BGR2RGB)
         return rainlayer_rand
