@@ -50,13 +50,11 @@ sh test.sh
 ## Bibtex
 
 ```
-@misc{guo2020efficientderain,
+@inproceedings{guo2020efficientderain,
       title={EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining}, 
       author={Qing Guo and Jingyang Sun and Felix Juefei-Xu and Lei Ma and Xiaofei Xie and Wei Feng and Yang Liu},
       year={2020},
-      eprint={2009.09238},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={AAAI}
 }
 ```
 
