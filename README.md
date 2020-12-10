@@ -8,7 +8,7 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - python 3.6
 - pytorch 1.6.0
 - opencv-python 4.4.0.44
-- scokit-image 0.17.2
+- scikit-image 0.17.2
 
 ## Datasets
 - Rain100L http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
