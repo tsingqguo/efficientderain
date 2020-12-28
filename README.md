@@ -48,13 +48,7 @@ sh test.sh
 
 <img align="center" src="./results/psnr_ssim-time.png" swidth="750">
 
-
-<center><font size="2">ssim/psnr of v3 and v4 in four datasets</font></center>
-
-|    | SPA-data       | rain1400       | rain100H       | rain100L       |
-|----|----------------|----------------|----------------|----------------|
-| v3 | 0.9825 / 41.09 | 0.9272 / 32.30 | 0.8970 / 30.35 | 0.9486 / 33.18 |
-| v4 | 0.9810 / 40.66 | 0.9226 / 31.81 | 0.9099 / 31.12 | 0.9549 / 34.06 |
+<img align="center" src="./results/table-ssim_psnr.png" swidth="750">
 
 ## Bibtex
 
