@@ -50,6 +50,7 @@ sh test.sh
 
 
 <center><font size="2">ssim/psnr of v3 and v4 in four datasets</font></center>
+
 |    | SPA-data       | rain1400       | rain100H       | rain100L       |
 |----|----------------|----------------|----------------|----------------|
 | v3 | 0.9825 / 41.09 | 0.9272 / 32.30 | 0.8970 / 30.35 | 0.9486 / 33.18 |
