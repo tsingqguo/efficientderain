@@ -11,8 +11,8 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - scikit-image 0.17.2
 
 ## Datasets
-- Rain100L http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
-- Rain100H http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
+- Rain100L-old_version https://drive.google.com/file/d/1YcL74X90M4z_9O7wr2miWgZC1GfJuNOR/view?usp=sharing
+- Rain100H-old_version https://drive.google.com/file/d/1ZczoGWvXS0Liz1_B96SRTU6fmMePWodM/view?usp=sharing
 - Rain1400 https://xueyangfu.github.io/projects/cvpr2017.html
 - SPA https://stevewongv.github.io/derain-project.html
 
@@ -47,6 +47,13 @@ sh test.sh
 ## Results
 
 <img align="center" src="./results/psnr_ssim-time.png" swidth="750">
+
+
+<center><font size="2">ssim/psnr of v3 and v4 in four datasets</font></center>
+|    | SPA-data       | rain1400       | rain100H       | rain100L       |
+|----|----------------|----------------|----------------|----------------|
+| v3 | 0.9825 / 41.09 | 0.9272 / 32.30 | 0.8970 / 30.35 | 0.9486 / 33.18 |
+| v4 | 0.9810 / 40.66 | 0.9226 / 31.81 | 0.9099 / 31.12 | 0.9549 / 34.06 |
 
 ## Bibtex
 
