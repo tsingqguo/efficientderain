@@ -17,9 +17,13 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - SPA https://stevewongv.github.io/derain-project.html
 
 ## Pretrained models
-Here is the url of pretrained models (includes v3_rain100H, v3_rain1400, v3_SPA, v4_rain100H, v4_rain1400, v4_SPA) : 
+Here is the urls of pretrained models (includes v3_rain100H, v3_rain1400, v3_SPA, v4_rain100H, v4_rain1400, v4_SPA) : 
+
+google drive:
 https://drive.google.com/file/d/1OBAIG4su6vIPEimTX7PNuQTxZDjtCUD8/view?usp=sharing
 
+baiduyun:
+https://pan.baidu.com/s/1kFWP-b3tD8Ms7VCBj9f1kw (pwd: vr3g)
 
 ## Train
 
