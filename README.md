@@ -54,6 +54,36 @@ sh test.sh
 
 <img align="center" src="./results/table-ssim_psnr.png" swidth="750">
 
+<table>
+    <tr>
+        <td ><center><img src="./results/gt_vs_rcdnet_0.gif"  > <p align="center">GT vs RCDNet</p> </center></td>
+        <td ><center><img src="./results/gt_vs_efderain_0.gif" > <p align="center">GT vs EfDeRain</p> </center></td>
+        <td ><center><img src="./results/input_vs_gt_0.gif"  > <p align="center">Input vs GT</p> </center></td>
+    </tr>
+    <tr>
+        <td ><center><img src="./results/gt_vs_rcdnet_1.gif" > <p align="center">GT vs RCDNet</p> </center></td>
+        <td ><center><img src="./results/gt_vs_efderain_1.gif" > <p align="center">GT vs EfDeRain</p> </center></td>
+        <td ><center><img src="./results/input_vs_gt_1.gif"  > <p align="center">Input vs GT</p> </center></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td ><center><img src="./results/gt_vs_v1_0.gif"  > <p align="center">GT vs v1</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v2_0.gif"  > <p align="center">GT vs v2</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v3_0.gif"  > <p align="center">GT vs v3</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v4_0.gif"  > <p align="center">GT vs v4</p> </center></td>
+    </tr>
+    <tr>
+        <td ><center><img src="./results/gt_vs_v1_1.gif"  > <p align="center">GT vs v1</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v2_1.gif"  > <p align="center">GT vs v2</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v3_1.gif"  > <p align="center">GT vs v3</p> </center></td>
+        <td ><center><img src="./results/gt_vs_v4_1.gif"  > <p align="center">GT vs v4</p> </center></td>
+    </tr>
+</table>
+
+
+
 ## Bibtex
 
 ```
