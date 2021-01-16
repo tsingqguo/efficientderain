@@ -54,6 +54,14 @@ sh test.sh
 
 <img align="center" src="./results/table-ssim_psnr.png" swidth="750">
 
+<table>
+    <tr>
+        <td ><center><img src="./results/gt_vs_rcdnet_0.gif" > <p align="center">GT vs RCD Net</p> </center></td>
+        <td ><center><img src="./results/gt_vs_efderain_0.gif" > <p align="center">GT vs EfDeRain</p> </center></td>
+        <td ><center><img src="./results/input_vs_gt_0.gif"  > <p align="center">Input vs GT</p> </center></td>
+    </tr>
+</table>
+
 ## Bibtex
 
 ```
