@@ -19,14 +19,14 @@ we propose EfficientDerain for high-efficiency single-image deraining
 ## Pretrained models
 Here is the urls of pretrained models (includes v3_rain100H, v3_rain1400, v3_SPA, v4_rain100H, v4_rain1400, v4_SPA) : 
 
+direct download: 
+http://www.xujuefei.com/models_effderain.zip
+
 google drive:
 https://drive.google.com/file/d/1OBAIG4su6vIPEimTX7PNuQTxZDjtCUD8/view?usp=sharing
 
 baiduyun:
 https://pan.baidu.com/s/1kFWP-b3tD8Ms7VCBj9f1kw (pwd: vr3g)
-
-direct download: 
-http://www.xujuefei.com/models_effderain.zip
 
 ## Train
 
