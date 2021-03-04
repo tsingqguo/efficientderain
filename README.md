@@ -94,7 +94,7 @@ sh test.sh
       title={EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining}, 
       author={Qing Guo and Jingyang Sun and Felix Juefei-Xu and Lei Ma and Xiaofei Xie and Wei Feng and Yang Liu},
       year={2021},
-      booktitle={accepted to AAAI}
+      booktitle={AAAI}
 }
 ```
 
