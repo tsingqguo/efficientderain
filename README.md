@@ -53,7 +53,7 @@ sh test.sh
 
 ## Results
 
-The specific results can be found “**./results/data/DERAIN.xlsx**”
+The specific results can be found in “**./results/data/DERAIN.xlsx**”
 
 <img align="center" src="./results/psnr_ssim-time.png" swidth="750">
 
