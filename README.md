@@ -53,6 +53,8 @@ sh test.sh
 
 ## Results
 
+The specific results can be found “**./results/data/DERAIN.xlsx**”
+
 <img align="center" src="./results/psnr_ssim-time.png" swidth="750">
 
 <img align="center" src="./results/table-ssim_psnr.png" swidth="750">
@@ -84,8 +86,6 @@ sh test.sh
         <td ><center><img src="./results/gt_vs_v4_1.gif"  > <p align="center">GT vs v4</p> </center></td>
     </tr>
 </table>
-The specific results can be found [here](./results/data)
-
 
 ## Bibtex
 
