@@ -84,7 +84,7 @@ sh test.sh
         <td ><center><img src="./results/gt_vs_v4_1.gif"  > <p align="center">GT vs v4</p> </center></td>
     </tr>
 </table>
-
+The specific results can be found [here](./results/data)
 
 
 ## Bibtex
