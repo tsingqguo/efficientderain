@@ -11,8 +11,8 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - scikit-image 0.17.2
 
 ## Datasets
-- Rain100L-old_version https://drive.google.com/file/d/1YcL74X90M4z_9O7wr2miWgZC1GfJuNOR/view?usp=sharing
-- Rain100H-old_version https://drive.google.com/file/d/1ZczoGWvXS0Liz1_B96SRTU6fmMePWodM/view?usp=sharing
+- Rain100L-old_version https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md
+- Rain100H-old_version https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md
 - Rain1400 https://xueyangfu.github.io/projects/cvpr2017.html
 - SPA https://stevewongv.github.io/derain-project.html
 
