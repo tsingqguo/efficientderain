@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt 
-from skimage.measure import compare_ssim, compare_psnr
+from skimage.metrics import structural_similarity
 
 SRC_PATH = "./results_k9"
 DST_PATH = "./rainy_image_dataset/testing_results_k9"
