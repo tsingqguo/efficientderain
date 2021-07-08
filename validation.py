@@ -3,7 +3,7 @@ import os
 import torch
 import numpy as np
 import cv2
-from skimage.measure import compare_ssim, compare_psnr
+from skimage.metrics import structural_similarity
 
 import utils
 import dataset
