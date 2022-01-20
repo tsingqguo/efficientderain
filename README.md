@@ -9,6 +9,8 @@ we propose EfficientDerain for high-efficiency single-image deraining
 - pytorch 1.6.0
 - opencv-python 4.4.0.44
 - scikit-image 0.17.2
+- torchvision 0.9.1
+- pytorch-msssim 0.2.1
 
 ## Datasets
 - Rain100L-old_version https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md
