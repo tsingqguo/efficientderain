@@ -32,7 +32,8 @@ https://pan.baidu.com/s/1kFWP-b3tD8Ms7VCBj9f1kw (pwd: vr3g)
 
 ## Train
 
-- The code shown corresponds to version **v3**, for **v4** change the value of argument "**rainaug**" in file "**./train.sh**" to the "**true**" (You need to unzip the "Streaks_Garg06.zip" in the "./rainmix")
+- The code shown corresponds to version **v3**, for **v4** change the value of argument "**rainaug**" in file "**./train_*.sh**" to the "**true**" (train_*.sh means it's the training script of dataset *) 
+- Unzip the "Streaks_Garg06.zip" in the "./rainmix"
 - Change the value of argument "**baseroot**" in file "**./train.sh**" to **the path of training data**
 - Edit the function "**get_files**" in file "**./utils**" according to the format of the training data
 - Execute
